@@ -119,7 +119,7 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/elyazer_putra'
-global.sgh = 'https://github.com/hyuura-official' //github
+global.sgh = 'https://github.com/S4MUR41i' //github
 global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
@@ -352,7 +352,7 @@ global.phn = '0821 3643 2456'
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/c7f0b50b7da4080cdb35a.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
