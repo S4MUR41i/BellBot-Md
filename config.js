@@ -96,12 +96,12 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = '𝑵𝒂𝒕𝒉𝒂𝒏'
-global.namebot = '​ ʙᴇʟʟʙᴏᴛ-ᴍᴅ'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
+global.namebot = '​ ᴼᶜʰᵒᴮᵒᵗᵗ-ᴍᴅ'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ᴼᶜʰᵒᴮᵒᵗᵗ 𝐌𝐝'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'ʙᴇʟʟʙᴏᴛ-ᴍᴅ '
+global.wm = 'ᴼᶜʰᵒᴮᵒᵗᵗ-ᴍᴅ '
 global.watermark = wm
-global.wm2 = 'ʙᴇʟʟʙᴏᴛ-ᴍᴅ '
+global.wm2 = 'ᴼᶜʰᵒᴮᵒᵗᵗ-ᴍᴅ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `𝑵𝒂𝒕𝒉𝒂𝒏`
@@ -118,7 +118,7 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/_b4c00t4an_s3l3b'
+global.sig = 'https://instagram.com/elyazer_putra'
 global.sgh = 'https://github.com/hyuura-official' //github
 global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
 global.sdc = '-' //discord
@@ -131,7 +131,7 @@ global.pgopay = '0821 3643 2456'
 global.plinkaja = '-' //link aja
 global.ppulsa = '0821 3643 2456'
 global.ppulsa2 = '081277577432'
-global.psaweria = 'https://saweria.co/hyuura'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -343,7 +343,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/elyazer-putra"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '0821 3643 2456'
 
