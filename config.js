@@ -304,7 +304,7 @@ global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 global.thumb = 'https://telegra.ph/file/c7f0b50b7da4080cdb35a.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/fa1d039223f550bc700a4.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.giflogo = 'https://telegra.ph/file/46b32fa81f8f1e17ef745.mp4'
 global.thumbs = ['https://telegra.ph/file/fa1d039223f550bc700a4.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
